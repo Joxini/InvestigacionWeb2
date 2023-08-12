@@ -79,4 +79,9 @@ export class ProductosComponent {
       });
     }
   }
+
+mostrarMenu: boolean = false;
+
+
+  
 }
